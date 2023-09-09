@@ -9,7 +9,7 @@ Meu caso de uso:
 No meus estudos sempre estou derubando a minha infra e não quero
 deixar o ip fixo, então fica com o ip dinamico e com esse script posso 
 pegar a saida do Terrform ou aws cli para pegar os ips dos servidores e atualizar
-meu registros. 
+meus registros. 
 
 Como usar: 
 Vc pode colocar os valores de ids e nome de zonas na mão ou pegar
